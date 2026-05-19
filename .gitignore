@@ -1,0 +1,15 @@
+.DS_Store
+**/.DS_Store
+
+# Local editor and temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Node dependencies, if tooling is added later
+node_modules/
